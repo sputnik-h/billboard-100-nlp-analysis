@@ -18,7 +18,7 @@ The project aims to examine the semantic journey of music lyrics and their impac
 
 ## Data Collection and Preparation
 
-- **Data Source**: The dataset was retrieved from Kaggle and included all songs that entered the Billboard Top 100 from 1999 to 2019, resulting in 7,273 unique songs after cleaning.
+- **Data Source**: The dataset was retrieved from [Kaggle](https://www.kaggle.com/datasets/danield2255/data-on-songs-from-billboard-19992019) and included all songs that entered the Billboard Top 100 from 1999 to 2019, resulting in 7,273 unique songs after cleaning.
 - **Preprocessing Steps**:
   - Removed line breaks and lowercased text.
   - Tokenization using regular expressions to extract alphanumeric characters.
